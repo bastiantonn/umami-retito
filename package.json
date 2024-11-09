@@ -5,6 +5,10 @@
   "author": "Umami Software, Inc. <hello@umami.is>",
   "license": "MIT",
   "homepage": "https://umami.is",
+  "engines": {
+    "node": "22.x",
+    "npm": "10.x"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/umami-software/umami.git"
